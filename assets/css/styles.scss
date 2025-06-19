@@ -1,4 +1,182 @@
 ---
 ---
 
-@use "main";
+:root {
+  font-family: Inter, sans-serif;
+  font-feature-settings: 'liga' 1, 'calt' 1; /* fix for Chrome */
+}
+@supports (font-variation-settings: normal) {
+  :root { font-family: InterVariable, sans-serif; }
+}
+
+body {
+  margin: 0;
+
+  > div {
+    position: relative;
+    min-height: 100vh;
+
+    > div {
+      padding-bottom: 5rem;
+    }
+
+    footer {
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+      height: 4rem;
+    }
+  }
+}
+
+header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 0.5em;
+  position: sticky;
+  background-color: white;
+  top: 0;
+
+  nav {
+    display: none;
+    margin-left: -0.5em;
+    margin-right: -0.5em;
+    width: 100vw;
+    padding-top: 0.5em;
+    overflow: hidden;
+
+    a {
+      display: block;
+      text-decoration: none;
+      color: black;
+      font-size: 1.2em;
+      text-transform: uppercase;
+      padding-top: 0.2em;
+      padding-bottom: 0.2em;
+      padding-left: 0.5em;
+      padding-right: 0.5em;
+    }
+
+    a.current {
+      background-color: black;
+      color: white;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      width: 100%;
+    }
+  }
+
+  nav.open {
+    display: flex;
+  }
+
+  .heading {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+
+    .mistni-komise {
+      color: gray;
+      font-weight: 300;
+    }
+  }
+
+  .hamburger {
+    width: 1.5em;
+    height: 1.5em;
+    padding: 0.25em;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    :hover {
+      cursor: pointer;
+    }
+
+    div {
+      width: 100%;
+      height: calc(1.5em / 6);
+      background-color: black;
+    }
+  }
+}
+
+main {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-gap: 1em;
+  margin: 0.5em;
+  align-items: end;
+
+  * {
+    grid-column: 1 / span 6;
+    grid-row: auto / auto;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+}
+
+footer {
+  padding: 0.5em;
+  background-color: #bbb;
+
+  > div {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    align-items: center;
+    color: white;
+    font-size: 0.8em;
+
+    ul {
+      grid-column: 6;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+
+      a {
+        color: white;
+      }
+    }
+  }
+
+}
+
+@media (min-width: 600px) {
+  header {
+    .hamburger {
+      display: none;
+    }
+
+    nav {
+      display: block;
+      flex-grow: 0;
+      margin: 0;
+      width: auto;
+
+      ul {
+        display: flex;
+        flex-direction: row;
+      }
+    }
+  }
+
+  main {
+    max-width: 600px;
+    margin: auto;
+  }
+
+  footer {
+    > div {
+      max-width: 600px;
+      margin: auto;
+    }
+  }
+}
