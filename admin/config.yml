@@ -3,8 +3,8 @@ backend:
   repo: mkrochlice/mkrochlice.github.io
   branch: main
   base_url: https://mkrochliceoauth.mmq.cz
-media_folder: "uploads"
-public_folder: "/"
+media_folder: "assets/images/uploads"
+public_folder: "/assets/images/uploads"
 collections:
   - name: "aktuality"
     label: "Aktuality"
