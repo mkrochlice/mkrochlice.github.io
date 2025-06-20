@@ -19,7 +19,4 @@ Liberec 6. Komise může:
 
 ## Aktuality
 
-{% for post in site.posts %}
-* [{{ post.title }}]({{ post.url }})
-{% endfor %}
-
+{% include aktuality.html %}
