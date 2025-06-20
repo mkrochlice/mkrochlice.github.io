@@ -27,7 +27,7 @@
 					</div>
 					<nav id="header__links">
 						<ul>
-						{% for item in site.data.navigation %}
+						{% for item in site.data.navigation.sites %}
 							<li><a
 								href="{{ item.link }}"
 								{% if page.url == item.link %}class="current"{%endif %}
@@ -46,7 +46,7 @@
 				<div>
 					<p>Místní komise Rochlice</p>
 					<ul>
-						{% for item in site.data.navigation %}
+						{% for item in site.data.navigation.sites %}
 							<li><a href="{{ item.link }}">
 								{{ item.name }}
 							</a></li>

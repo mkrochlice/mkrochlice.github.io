@@ -2,6 +2,7 @@ backend:
   name: github
   repo: mkrochlice/mkrochlice.github.io
   branch: main
+  base_url: https://mkrochliceoauth.mmq.cz
 media_folder: "uploads"
 public_folder: "/"
 collections:
@@ -14,6 +15,7 @@ collections:
       - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
       - { label: "Titulek", name: "title", widget: "string" }
       - { label: "Autor", name: "author", widget: "string" }
+      - { label: "Featured Image", name: "thumbnail", widget: "image" }
       - { label: "Obsah", name: "body", widget: "markdown" }
   - name: "static"
     label: "Statický obsah"
@@ -24,4 +26,16 @@ collections:
       - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
       - { label: "Titulek", name: "title", widget: "string" }
       - { label: "Obsah", name: "body", widget: "markdown" }
-
+  - label: "Konfigurace"
+    name: "data"
+    files:
+      - label: "Navigace"
+        name: "navigation"
+        file: "_data/navigation.yml"
+        fields:
+          - label: "Stránky"
+            name: "sites"
+            widget: "list"
+            fields:
+            - { label: "Jméno", name: "name", widget: "string" }
+            - { label: "Adresa", name: "link", widget: "string" }

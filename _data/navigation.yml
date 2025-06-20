@@ -1,6 +1,7 @@
-- name: Domů
-  link: /
-- name: O nás
-  link: /o-nas.html
-- name: Aktuality
-  link: /aktuality.html
+sites:
+  - name: Domů
+    link: /
+  - name: O nás
+    link: /o-nas.html
+  - name: Aktuality
+    link: /aktuality.html
