@@ -4,22 +4,22 @@ layout: default
 
 <h2>Zápis</h2>
 
-z {{ page.number }}. jednání Místní komise Rochlice konaného dne {{ page.date | date: "%d. %m. %Y" }}.
+<p>z {{ page.number }}. jednání Místní komise Rochlice konaného dne {{ page.meetingDate | date: "%d. %m. %Y" }}.</p>
 
 <h3>Přítomni</h3>
 
-{{ page.present }}
+<p>{{ page.present }}</p>
 
 <h3>Omluveni</h3>
 
-{{ page.excused }}
+<p>{{ page.excused }}</p>
 
 <h3>Neomluveni</h3>
 
-{{ page.unexcused }}
+<p>{{ page.unexcused }}</p>
 
 <h3>Hosté</h3>
 
-{{ page.guests }}
+<p>{{ page.guests }}</p>
 
 {{ content }}
