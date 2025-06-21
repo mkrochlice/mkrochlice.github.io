@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<h2>Zápis</h2>
+
+z {{ page.number }}. jednání Místní komise Rochlice konaného dne {{ page.date | date: "%d. %m. %Y" }}.
+
+<h3>Přítomni</h3>
+
+{{ page.present }}
+
+<h3>Omluveni</h3>
+
+{{ page.excused }}
+
+<h3>Neomluveni</h3>
+
+{{ page.unexcused }}
+
+<h3>Hosté</h3>
+
+{{ page.guests }}
+
+{{ content }}

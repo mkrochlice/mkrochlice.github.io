@@ -20,3 +20,5 @@ Liberec 6. Komise může:
 ## Aktuality
 
 {% include aktuality.html %}
+
+[další příspěvky](/archiv.html)
