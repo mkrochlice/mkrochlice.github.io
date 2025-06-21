@@ -1,0 +1,148 @@
+---
+layout: zapis
+number: "1"
+meetingDate: 2024-12-03T17:00:00.000Z
+present: Andrea Kuňáková, Štěpánka Kašparová, Lukáš Pavčo, Marek Maškarinec,
+  Jakub Lieskovský, Josef Kotalík, Daniel Horáček, Marcela Nováková, Josef
+  Hlaváč, Petr Kadavý, Petr Vacovský
+excused: Olga Šamková
+unexcused: "0"
+guests: Martin Stianko
+---
+**Program jednání:**
+
+1. Zahájení a schválení programu,
+2. Úkoly pro jednotlivé členy  Místní komise Rochlice,
+3. Informace a plán činnosti Místní komise Rochlice,
+4. Různé,
+5. Závěr.
+
+**1.   Zahájení a schválení programu.**
+
+Před zahájením jednání byly všechny přítomné osoby ústně seznámeny s tím, že „osobní údaje, které na jednání zazní (případně mohou zaznět), představují zákonem chráněné osobní údaje a nemají být volně šířeny“. 
+
+V úvodu byla omluvena paní  Šamková, která se nemohla účastnit z pracovních důvodů. 
+
+Bylo konstatováno, že počet přítomných členů je nadpoloviční většina a komise je usnášeníschopná.
+
+Návrh usneseníč**. MKR /2024/01/01**  Místní komise Rochlice v roce 2024:
+
+Místní komise Rochlice po projednání 
+
+**schvaluje** 
+
+program jednání.
+
+Hlasování:
+
+Přítomno: 11 přítomných
+
+Pro: 11 pro
+
+Proti: 0 proti
+
+Zdrželi se:0 zdržených se
+
+Výsledek: PŘIJATO
+
+**2.   Rozdělení úkolů pro jednotlivé členy Místní komise Rochlice.**
+
+Členové komise se dohodli, že je potřebné, aby si členové rozdělili úkoly a činnosti:
+
+*Zápisy z jednání ‒* paní Štěpánka Kašparová
+
+*Finance* – paní Marcela Nováková 
+
+*Péče o zeleň* – pan Daniel Horáček 
+
+*Rada města ‒* sledování předložených materiálu pan Lukáš Pavčo, pan Marek Maškarinec a pan Josef Kotalík
+
+*Zastupitelstvo města ‒* sledování předložených materiálu pan Lukáš Pavčo, pan Marek Maškarinec a pan Josef Kotalík
+
+*Facebook* – pan Josef Hlaváč založí skupinu, kterou bude spravovat společně s předsedkyní.  
+
+*Webové stránky ‒* panJosef Kotalík založí je a bude je spravovat.
+
+*GoogleDisk Drive ‒* pan Jakub Lieskovský založí úložiště pro potřeby Místní komise Rochlice, které bude spravovat.
+
+*Oficiální email Místní komise Rochlice*: [rochlice@magistrat.liberec.cz](mailto:rochlice@magistrat.liberec.cz)
+
+*WhatsApp* – společná uzavřená skupina Místní komise Rochlice, pro komunikaci mezi členy.
+
+Návrh usnesení č. **MKR /2024/01/02** Místní komise Rochlice v roce 2024:
+
+Místní komise Rochlice po projednání 
+
+**schvaluje** 
+
+rozdělení úkolů pro jednotlivé členy komise
+
+Hlasování:
+
+Přítomno: 11 přítomných
+
+Pro: 11 pro
+
+Proti: 0 proti
+
+Zdrželi se:0 zdržených se
+
+Výsledek: PŘIJATO
+
+**3.  Informace a plán činnosti Místní komise Rochlice.**
+
+**Dohoda na pravidelných setkání Místní komise Rochlice** 
+
+Členové komise seshodli na termínech jednání komise a to v interval 1x za měsíc vždy v  úterý,  krom měsíců červenec a srpen.
+
+Návrh usnesení č. **MKR /2024/01/03** Místní komise Rochlice v roce 2024:
+
+Místní komise Rochlice po projednání 
+
+**schvaluje** 
+
+termíny jednání místní komise.
+
+Hlasování:
+
+Přítomno: 11 přítomných
+
+Pro: 11 pro
+
+Proti: 0 proti
+
+Zdrželi se:0 zdržených se
+
+Výsledek: PŘIJATO
+
+**4. Různé**
+
+Členové komise diskutovali o vytvoření “zásobníku/ košíku” nápadů, přání, potřeb, pro využití Fondu místní komise, pro obyvatele a rozvoj místní části Rochlice. Je potřeba si záměry komise odpovědně rozmyslet a určit priority.
+
+Předsedkyně komise informovala členy o setkání předsedů místních komisí, uskutečněné dne 4. 12. 2024.
+
+Každá komise bude davit podněty do Rady města za sebe, prostudovat materiály dopředu           před každou Radou města.
+
+Členové řešili otázku Korintu –  informace Ing. arch. Koňasová Zuzana, vedoucí odboru Kanceláře architektury města a pan Josef Smutný -  člen Rady architektů, která je poradním orgánem primátora. Sedmičlenná rada se zabývá rozvojem města, architekturou, urbanismem a vyjadřuje se k územnímu plánování či veřejnému prostoru. 
+
+O aktuálním stavu jednání ohledně Korintu informuje komisi pan Stianko.
+
+Termíny konání rady města – heslo pro místní komise bylo předsedkyní všem členům sděleno.
+
+Zjistit možnosti publikování a sdílení informací místní komisí v Libereckém zpravodaji.
+
+Členové komise diskutovali o nastavení pravidel jednání místní komise. 
+
+**5.    Závěr.**
+
+Příští jednání Místní komise Rochlice se uskuteční 14. 1. 2025 v 17:00 hodin.
+
+Zasedání komise bylo ukončeno v 19.05 hodin.
+
+Zapisovatel: Štěpánka Kašparová
+
+Ověřovatel: Andrea Kuňáková
+
+Schválil: Andrea Kuňáková, předsedkyně Místní komise Rochlice 
+
+V Liberci, 15. 12. 2024
