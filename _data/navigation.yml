@@ -1,6 +1,8 @@
 sites:
   - name: Domů
     link: /
+  - name: Zasedání
+    link: /zasedani.html
   - name: O nás
     link: /o-nas.html
   - name: Facebook

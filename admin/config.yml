@@ -20,7 +20,7 @@ collections:
   - name: "zapisy"
     label: "Zápisy ze schůzí"
     folder: "zapisy/_posts"
-    slug: "{{date | date('YYYY')}}-{{date | date('MM')}}-{{date | date('DD')}}-{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     create: true
     fields:
       - { label: "Layout", name: "layout", widget: "hidden", default: "zapis" }
