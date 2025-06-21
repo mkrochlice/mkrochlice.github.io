@@ -55,5 +55,13 @@
 				</div>
 			</footer>
 		</div>
+
+		<script>
+			document.querySelectorAll('img:not(.no-expand)').forEach(img => {
+				img.addEventListener('click', () => {
+					img.classList.toggle('expand');
+				});
+			});
+		</script>
 	</body>
 </html>

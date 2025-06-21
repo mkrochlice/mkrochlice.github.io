@@ -1,7 +1,7 @@
 <div class="posts">
 {% for post in site.posts %}
 <div>
-	<a href="{{ post.url }}"><img src="{{ post.thumbnail }}"></a>
+	<a href="{{ post.url }}"><img class="no-expand" src="{{ post.thumbnail }}"></a>
 	<div>
 		<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
 		<p>{{ post.date | date_to_string }}</p>

@@ -188,6 +188,7 @@ footer {
     nav {
       display: block;
       flex-grow: 0;
+      padding: 0;
       margin: 0;
       width: auto;
 
@@ -201,6 +202,9 @@ footer {
   main {
     max-width: 800px;
     margin: auto;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    grid-gap: 0.5em;
 
     p:has(img) {
       grid-column: span 3;
@@ -222,5 +226,18 @@ footer {
     >div {
       grid-column: span 1;
     }
+  }
+
+  img {
+    cursor: pointer;
+    transition: transform 0.3s ease;
+  }
+
+  img.expand {
+    position: relative;
+    transform: scale(1.5);
+    transition: transform 0.3s ease;
+    z-index: 10;
+    width: 800px;
   }
 }
