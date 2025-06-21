@@ -24,8 +24,8 @@ collections:
     create: true
     fields:
       - { label: "Layout", name: "layout", widget: "hidden", default: "zapis" }
-      - { label: "Číslo jednání", name: "number", widget: "string" }
-      - { label: "Datum jednání", name: "meetingDate", widget: "datetime" }
+      - { label: "Číslo jednání", name: "title", widget: "string" }
+      - { label: "Datum jednání", name: "date", widget: "datetime" }
       - { label: "Přítomni", name: "present", widget: "string" }
       - { label: "Omluveni", name: "excused", widget: "string" }
       - { label: "Neomluveni", name: "unexcused", widget: "string" }
