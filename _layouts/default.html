@@ -7,6 +7,7 @@
 		<link rel="stylesheet" href="/assets/css/styles.css">
 		<link rel="preconnect" href="https://rsms.me/">
 		<link rel="stylesheet" href="https://rsms.me/inter/inter.css">
+		{% seo %}
 	</head>
 	<body>
 		<div>
@@ -44,7 +45,10 @@
 			</div>
 			<footer>
 				<div>
-					<p>Místní komise Rochlice</p>
+					<div>
+						<p>Místní komise Rochlice</p>
+						<a href="mailto:rochlice@magistrat.liberec.cz">rochlice@magistrat.liberec.cz</a>
+					</div>
 					<ul>
 						{% for item in site.data.navigation.sites %}
 							<li><a href="{{ item.link }}">
@@ -53,6 +57,11 @@
 						{% endfor %}
 					</ul>
 				</div>
+				<ul>
+					<a href="https://github.com/mkrochlice/mkrochlice.github.io">Zdrojové kódy stránky</a>
+					<a href="/feed.xml">RSS</a>
+					<a href="/sitemap.xml">Mapa WEBu</a>
+				</ul>
 			</footer>
 		</div>
 

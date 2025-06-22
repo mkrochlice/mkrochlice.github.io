@@ -1,0 +1,15 @@
+title: Místní komise Rochlice
+tagline: Webová stránka Místní komise Rochlice
+url: mkrochlice.github.io
+lang: cs_CZ
+
+social:
+  name: Místní komise Rochlice
+  links:
+    - https://www.facebook.com/mkrochlice/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-redirect-from

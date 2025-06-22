@@ -2,7 +2,7 @@
 layout: post
 title: Nové hřiště v ulici Sametová
 author: neznámý autor
-thumbnail: /assets/images/uploads/507107556_122134216322748074_8366710575356428026_n.jpg
+image: /assets/images/uploads/507107556_122134216322748074_8366710575356428026_n.jpg
 ---
 Minulý týden bylo zpřístupněno nové venkovní hřiště s fitness prvky v ulici Sametová. Najdete zde cvičební sestavy jako bench press, lat machine, shoulder press, squat nebo pec fly, ale i pingpongové stoly a lavičky pro klidnější odpočinek.
 

@@ -3,7 +3,7 @@ layout: post
 date: 2025-06-18
 title: Turnaj v pétanque
 author: Josef Kotalík
-thumbnail: https://scontent.fprg5-1.fna.fbcdn.net/v/t39.30808-6/509156942_122134840982748074_3004558663154447994_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Wvi8LXMSHC4Q7kNvwEZjT1t&_nc_oc=AdmPOsXX7Vg8dbAP3nuhrFARg0vd68qPJ9w7EAejDlJNEPJOAxamREUr6K2pV_mtzLc&_nc_zt=23&_nc_ht=scontent.fprg5-1.fna&_nc_gid=Q22AEnS5wfLPXu-F8vyQEQ&oh=00_AfOvuTu3_mRI8jDEB2pJS-TYJjg9k7ZoWWJlrO_GI1742w&oe=685BB573
+image: https://scontent.fprg5-1.fna.fbcdn.net/v/t39.30808-6/509156942_122134840982748074_3004558663154447994_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Wvi8LXMSHC4Q7kNvwEZjT1t&_nc_oc=AdmPOsXX7Vg8dbAP3nuhrFARg0vd68qPJ9w7EAejDlJNEPJOAxamREUr6K2pV_mtzLc&_nc_zt=23&_nc_ht=scontent.fprg5-1.fna&_nc_gid=Q22AEnS5wfLPXu-F8vyQEQ&oh=00_AfOvuTu3_mRI8jDEB2pJS-TYJjg9k7ZoWWJlrO_GI1742w&oe=685BB573
 ---
 Děkujeme všem, kdo dorazili v neděli 15. června na mini turnaj v pétanque!
 

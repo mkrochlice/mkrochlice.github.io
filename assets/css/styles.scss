@@ -3,7 +3,8 @@
 
 :root {
   font-family: Inter, sans-serif;
-  font-feature-settings: 'liga' 1, 'calt' 1; /* fix for Chrome */
+  font-feature-settings: 'liga' 1, 'calt' 1, 'tnum' 1; /* fix for Chrome */
+  --black: #222;
 }
 @supports (font-variation-settings: normal) {
   :root { font-family: InterVariable, sans-serif; }
@@ -12,20 +13,24 @@
 body {
   margin: 0;
   font-size: 1.2em;
+  color: var(--black);
 
   > div {
     position: relative;
     min-height: 100vh;
 
     > div {
-      padding-bottom: 8rem;
+      padding-bottom: 10rem;
     }
 
     footer {
       position: absolute;
       bottom: 0;
-      height: 6rem;
       width: 100vw;
+
+      >div:first-child {
+        height: 8rem;
+      }
     }
   }
 }
@@ -50,7 +55,7 @@ header {
     a {
       display: block;
       text-decoration: none;
-      color: black;
+      color: var(--black);
       font-size: 1.2em;
       text-transform: uppercase;
       padding-top: 0.2em;
@@ -60,7 +65,7 @@ header {
     }
 
     a.current {
-      background-color: black;
+      background-color: var(--black);
       color: white;
     }
 
@@ -81,7 +86,7 @@ header {
     display: flex;
     flex-direction: column;
     text-decoration: none;
-    color: black;
+    color: var(--black);
     font-weight: bold;
 
     .mistni-komise {
@@ -105,7 +110,7 @@ header {
     div {
       width: 100%;
       height: calc(1.5em / 6);
-      background-color: black;
+      background-color: var(--black);
     }
   }
 }
@@ -130,9 +135,14 @@ main {
 }
 
 footer {
-  background-color: #bbb;
+  background-color: #222;
 
-  > div {
+  a {
+    color: white;
+    text-decoration: none;
+  }
+
+  >div:first-child {
     padding: 0.5em;
     display: grid;
     grid-template-columns: repeat(6, 1fr);
@@ -140,21 +150,37 @@ footer {
     color: white;
     font-size: 0.8em;
 
+    >div {
+      font-weight: bold;
+
+      p {
+        margin: 0;
+      }
+    }
+
     ul {
       grid-column: 6;
       margin: 0;
       padding: 0;
       list-style: none;
+    }
+  }
 
-      a {
-        color: white;
-      }
+  >ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 0.6em;
+
+    a {
+      color: #aaa;
     }
   }
 }
 
 .posts>div {
-  border: 2px solid black;
+  border: 2px solid var(--black);
   padding: 0.5em;
 
   img {
@@ -171,7 +197,7 @@ footer {
       flex-grow: 1;
 
       a {
-        color: black;
+        color: var(--black);
         text-decoration: none;
       }
     }
@@ -211,9 +237,10 @@ footer {
   }
 
   footer {
-    > div {
+    >* {
       max-width: 800px;
-      margin: auto;
+      margin-left: auto;
+      margin-right: auto;
     }
   }
 

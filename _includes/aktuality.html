@@ -1,7 +1,7 @@
 <div class="posts">
 {% for post in site.categories.aktuality limit:4 %}
 <div>
-	<a href="{{ post.url }}"><img class="no-expand" src="{{ post.thumbnail }}"></a>
+	<a href="{{ post.url }}"><img class="no-expand" src="{{ post.image }}"></a>
 	<div>
 		<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
 		<p>{{ post.date | date: "%d. %m. %Y" }}</p>
