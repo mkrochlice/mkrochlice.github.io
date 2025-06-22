@@ -18,8 +18,8 @@ title: Zasedání
 * 18\. 11\. 2025
 * 16\. 12\. 2025
 
-Komise zasedá v prostore Základní školy Broumovská v 17:00 hodin. Zasedání jsou
-veřejnosti přístupná.
+Komise zasedá v prostorech Základní školy Broumovská v 17:00 hodin. Zasedání
+jsou veřejnosti přístupná.
 
 ### Zápisy minulých zasedání
 
