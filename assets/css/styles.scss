@@ -182,6 +182,7 @@ footer {
 .posts>div {
   border: 2px solid var(--black);
   padding: 0.5em;
+  margin-bottom: 0.5em;
 
   img {
     width: 100%;
@@ -251,6 +252,7 @@ footer {
 
     >div {
       grid-column: span 1;
+      margin: 0;
     }
   }
 
