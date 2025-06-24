@@ -12,11 +12,6 @@ Liberec 6. Komise může:
 * obracet se s podněty na Městskou policii Liberec
 * navrhovat využití městem vyčleněných prostředků
 
-## Užitečné odkazy
-
-* [Facebook](https://www.facebook.com/mkrochlice/)
-* [Mapový portál marushka](https://marushkapub.liberec.cz/)
-
 ## Aktuality
 
 {% include aktuality.html %}
