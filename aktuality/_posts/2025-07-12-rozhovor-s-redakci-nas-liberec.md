@@ -9,6 +9,6 @@ Snažili jsme se být otevření, věcní a především mluvit v zájmu sídli�
 Přečtěte si, co podle nás projekt může přinést – a na co by si i město mělo dát pozor.
 Jaké otázky stále zůstávají bez odpovědi? A jak to celé ovlivní okolí?
 
-https://www.nasliberec.cz/.../lide-z-broumovske-mesto-by.../
+[https://www.nasliberec.cz/2025/07/01/lide-z-broumovske-mesto-by-se-nemelo-tvarit-ze-nema-na-investora-paky/](https://www.nasliberec.cz/2025/07/01/lide-z-broumovske-mesto-by-se-nemelo-tvarit-ze-nema-na-investora-paky/)
 
 🗣 Budeme rádi i za váš názor –⁠ ať už tady nebo na některém z našich jednání.
